@@ -1,0 +1,14 @@
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "description": "Account Management System migrated from COBOL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --runInBand"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.5.0"
+  }
+}
